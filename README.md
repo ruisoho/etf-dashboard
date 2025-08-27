@@ -1,5 +1,7 @@
 # 📈 ETF Dashboard
 
+Demo on Vercel (http://etf-dashboard.vercel.app)
+
 A modern, responsive ETF (Exchange-Traded Fund) dashboard built with **Next.js 15**, featuring real-time data from multiple API providers, interactive charts, and comprehensive ETF analytics.
 
 ![ETF Dashboard](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
